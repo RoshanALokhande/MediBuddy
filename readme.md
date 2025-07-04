@@ -1,3 +1,21 @@
+# AI Doctor Bot – Voice & Vision Powered
+This is an AI-powered multimodal medical assistant that allows users (patients) to ask questions via voice, image, or both. The bot responds like a professional doctor using LLMs and text-to-speech technology.
+
+# Features
+ Voice-to-Text: Patients can ask questions using voice.
+ Medical Image Analysis: Upload medical images (X-rays, skin issues, etc.).
+ AI Doctor Response: Uses an LLM (Meta LLaMA) to analyze and respond.
+ Text-to-Speech Output: Converts the response into a doctor-like voice.
+
+# Tech Stack
+Python 3.x
+Gradio for UI
+Whisper + GROQ API for Speech-to-Text
+Meta LLaMA (via Groq API) for response generation
+ElevenLabs / gTTS for Text-to-Speech
+dotenv for secure key handling
+
+
 # Project Setup Guide
 
 This guide provides step-by-step instructions to set up your project environment, including the installation of FFmpeg and PortAudio on Windows, as well as setting up a Python virtual environment using Pipenv or pip
