@@ -8,12 +8,12 @@ This is an AI-powered multimodal medical assistant that allows users (patients) 
 4. Text-to-Speech Output: Converts the response into a doctor-like voice.
 
 # Tech Stack
-1.Python 3.x
-2.Gradio for UI
-4.Whisper + GROQ API for Speech-to-Text
-5.Meta LLaMA (via Groq API) for response generation
-6.ElevenLabs / gTTS for Text-to-Speech
-7.dotenv for secure key handling
+1. Python 3.x
+2. Gradio for UI
+4. Whisper + GROQ API for Speech-to-Text
+5. Meta LLaMA (via Groq API) for response generation
+6. ElevenLabs / gTTS for Text-to-Speech
+7. dotenv for secure key handling
 
 
 # Project Setup Guide
