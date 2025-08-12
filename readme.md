@@ -1,4 +1,4 @@
-# AI Doctor Bot – Voice & Vision Powered
+# (MediBuddy)AI Doctor Bot – Voice & Vision Powered
 This is an AI-powered multimodal medical assistant that allows users (patients) to ask questions via voice, image, or both. The bot responds like a professional doctor using LLMs and text-to-speech technology.
 
 # Features
